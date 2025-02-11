@@ -38,6 +38,8 @@ Data Type: Banking financial records
 
 Home Ownership Type (Mortgage, Rent, Own, etc.)
 Year-wise Trends
+
+
 🖼 Dashboard Preview
 
 ![Bank Analytics Dashboard](dashboard%20screenshot.jpg)
