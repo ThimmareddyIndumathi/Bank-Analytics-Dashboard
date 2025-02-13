@@ -1,16 +1,16 @@
-🏦 Bank Analytics Dashboard 📊
-A data-driven Bank Analytics Dashboard built using Microsoft Excel, providing insights into loan performance, funded amounts, revolving balances, and account statistics.
+##🏦 Bank Analytics Dashboard 📊
+#A data-driven Bank Analytics Dashboard built using Microsoft Excel, providing insights into loan performance, funded amounts, revolving balances, and account statistics.
 
-📌 Project Overview
-This dashboard helps financial analysts and banking professionals track key metrics, including:
+##📌 Project Overview
+#This dashboard helps financial analysts and banking professionals track key metrics, including:
 ✅ Total Loan & Funded Amounts – Monitor lending trends and disbursements.
 ✅ Revolving Balance Analysis – Track outstanding credit balances.
 ✅ Yearly Loan & Funded Amount Trends – Identify growth and decline in banking activities.
 ✅ Home Ownership & Payment Behavior – Compare financial status across ownership types.
 ✅ Verification Status Impact – Analyze payment verification trends.
 
-🛠 Tools & Techniques Used
-Feature	Usage
+##🛠 Tools & Techniques Used
+#Feature	Usage
 Microsoft Excel	Data processing & dashboard creation
 Pivot Tables & Charts	Summarization & visualization
 Power Query	Data transformation
